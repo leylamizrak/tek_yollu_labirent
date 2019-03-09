@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515104774 source:c:\users\lenovo\desktop\projelerim-20190309t092034z-001\projelerim\tek_yollu_labirent\main.c
+	<stdio.h>
+	<stdlib.h>
+
